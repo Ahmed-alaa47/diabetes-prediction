@@ -36,5 +36,5 @@ Streamlit app created for real-time prediction.
 
 # Run Locally
 
-Use Command : python -m streamlit run app.py
+Use Command : python -m streamlit run app.py.
 User inputs raw (unscaled) data → the app scales it with the same scaler used in training → model predicts.
